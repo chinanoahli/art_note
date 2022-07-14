@@ -1,0 +1,20 @@
+# OSX.gitignore
+.DS_Store
+.AppleDouble
+.LSOverride
+*.icns
+._*
+
+# Icon must end with two \r
+Icon
+
+# Vim.gitignore
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+# Notepad++.gitignore
+*.bak
