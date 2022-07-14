@@ -1,6 +1,6 @@
 # Krenz 绘画教室
 
-+ [基础透视与结构](./KrenzArtwork/Perspective)
++ [基础透视与结构](./Perspective)
 
 + 光影与色彩
 
